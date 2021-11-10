@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Irish+Grover&family=Mochiy+Pop+P+One&family=Zen+Kurenaido&display=swap');
+
+body{
+
+    font-family: 'Mochiy Pop P One', sans-serif;
+
+    text-align: center;
+
+    background-color: rgba(12, 211, 118, 0.76);
+
+}
+
+h1{
+
+    text-align: center;
+
+}
+
+table{
+
+    border: 2px solid forestgreen;
+    background-color: lightgreen;
+
+    margin-left: 380px;
+
+}
+
+.red{
+
+    background-color: limegreen;
+
+}
+
+td{
+
+    border: 2px solid forestgreen;
+
+}
+
+label:nth-child(1){
+
+    color: goldenrod;
+
+}
+
+label:nth-child(2){
+
+    color: darkred;
+
+}
+
+a{
+
+    color: navy;
+
+    text-decoration: none;
+
+}
+
+h3{
+
+    color: rgba(5, 124, 5, 0.747);
+
+}
+
+img{
+
+    width: 400px;
+
+    padding: 30px;
+
+}
+
